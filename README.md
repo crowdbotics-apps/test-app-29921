@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [react-native-user-profile](modules/user-profile)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
